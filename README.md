@@ -2,9 +2,9 @@
 
 **COMPANY**: CODTECH IT SOLUTIONS
 
-**NAME**: Rishikesh Sushant Bharote
+**NAME**:Sameer Janardan Bharitkar
 
-**INTERN ID**: CT06DF1332
+**INTERN ID**: CT06DF1296
 
 **DOMAIN**: MERN STACK WEB DEVELOPMENT
 
@@ -48,5 +48,3 @@ Version control: The repo probably includes .gitignore, package.json, and other 
 Documentation: A README explaining setup, installation steps, environment variables (for storing the API key), and basic usage.
 
 
-# OUTPUT 
-https://private-user-images.githubusercontent.com/219690579/466643373-82e270c7-0783-4b38-8a87-a1779979b166.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI2MDM2NjUsIm5iZiI6MTc1MjYwMzM2NSwicGF0aCI6Ii8yMTk2OTA1NzkvNDY2NjQzMzczLTgyZTI3MGM3LTA3ODMtNGIzOC04YTg3LWExNzc5OTc5YjE2Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcxNVQxODE2MDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01OGNmNjkzOTRjMzMxZTFiZDdhN2U1NzIxNTUxMTlmODAyZmNhOGY4YzdiOTg5OGFmMzdjYTRmOWUyYTFlZjBiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.MZ9j0Hb4Ra19RVwqTZZjLhVBTU0FKJGDRGi0Ohr97GE
